@@ -1,0 +1,12 @@
+.label-form {
+    font-size: 14pt;
+}
+
+.container-login {
+    margin-top: 25px;
+    border: 1px solid rgba(0,0,0, .3);
+}
+
+#cadastrar-autores {
+    visibility: hidden;
+}
